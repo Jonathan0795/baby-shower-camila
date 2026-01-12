@@ -312,7 +312,7 @@ body {
 }
 
 .month {
-  font-size: 0.9rem;
+  font-size: 1rem;
   letter-spacing: 3px;
   text-transform: uppercase;
   margin-bottom: 15px;
@@ -341,7 +341,7 @@ body {
   width: 90px;
   text-align: center;
   font-family: 'Playfair Display', sans-serif;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 700;
   letter-spacing: 1.5px;
   text-transform: uppercase;
